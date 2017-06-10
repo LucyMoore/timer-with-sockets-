@@ -1,0 +1,13 @@
+.display{
+  border: 2px black solid;
+  height: 10%;
+  width: 20%;
+}
+.minutes{
+  height: 10%;
+  width: 5%;
+}
+.seconds{
+  height: 10%;
+  width: 5%;
+}
